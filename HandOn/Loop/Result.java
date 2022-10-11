@@ -1,3 +1,12 @@
+/*
+* demonstrate if-else statement of 5
+* subjects.the person who gets above 60% will be
+* passed otherwise failed.output should be
+* like:Enter your name,Enter marks for the 5 subjects.
+* Name : Vishal Gaud
+* Date : 11/10/22
+*/
+
 package Loop;
 
 public class Result {
