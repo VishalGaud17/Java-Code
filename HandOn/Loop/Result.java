@@ -26,9 +26,7 @@ public class Result {
 			System.out.println(name+" You got "+per+"%");
 			if(per>=60)	{
 				
-				;
 				System.out.println("Your are Pass ");
-				
 			}
 			else	{
 				System.out.println("You are Fail ");
