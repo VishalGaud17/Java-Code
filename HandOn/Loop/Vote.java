@@ -1,3 +1,10 @@
+/* 
+*  Test whether the person is eligible to give
+*  vote using (if-else)
+*  Name : Vishal Gaud
+*  Date : 11/10/22
+*/
+
 package Loop;
 
 public class Vote {
